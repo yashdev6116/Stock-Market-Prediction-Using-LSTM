@@ -40,7 +40,8 @@ How to Run the Project
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/lstm-time-series.git
+git clone https://github.com/yashdev6116/Stock-Market-Prediction-Using-LSTM.git
+
 Install the required libraries:
 bash
 Copy code
