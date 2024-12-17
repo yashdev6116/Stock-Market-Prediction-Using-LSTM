@@ -1,5 +1,4 @@
 # Stock-Market-Prediction-Using-LSTM
-
 Description
 This project leverages Long Short-Term Memory (LSTM) models to perform time series forecasting using Keras and TensorFlow. The implementation includes data preprocessing, model training, evaluation, and visualizations to showcase predictions and loss trends.
 
